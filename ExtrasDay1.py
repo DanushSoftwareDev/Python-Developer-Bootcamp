@@ -12,5 +12,6 @@ print("Hello"+" "+input("what is your name?\n")+"!")
 print("\nthis part of code uses a variable called 'name' to display a piece of text")
 name=input("What is your name?\n")
 print("Hi"+" "+name+"!,I am Danush, an aspiring Python,Java,Flutter and No-Code developer")
+#Using len() function to calculate the string length
 characs=len(name)
 print(characs)
