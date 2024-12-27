@@ -5,20 +5,6 @@ print("3. Add 3g of Salt.")
 print("4. Leave to rise for 2 hours.")
 print("5. Bake at 200 degrees C for 30 minutes.")
 
-# Fix the code below 👇
-"""print(Notes from Day 1")
- print("The print statement is used to output strings")
-print("Strings are strings of characters"
-priint("String Concatenation is done with the + sign")
-print(("New lines can be created with a '\ 'and the letter n")"""
-
-#After debugging
-print("Notes from Day 1")
-print("The print statement is used to output strings")
-print("Strings are strings of characters")
-print("String Concatenation is done with the + sign")
-print("New lines can be created with a \ and the letter n")
-
 #User inputs
 print("Hello"+" "+input("what is your name?\n")+"!")
 
@@ -26,3 +12,5 @@ print("Hello"+" "+input("what is your name?\n")+"!")
 print("\nthis part of code uses a variable called 'name' to display a piece of text")
 name=input("What is your name?\n")
 print("Hi"+" "+name+"!,I am Danush, an aspiring Python,Java,Flutter and No-Code developer")
+characs=len(name)
+print(characs)
